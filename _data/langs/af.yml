@@ -1,0 +1,519 @@
+---
+lang_name: "Afrikaans"
+head:
+  meta:
+    description: "VERGE (XVG) is 'n kryptogeldeenheid wat grootliks op sekuriteit, anonimiteit en meeste van als op privaatheid konsentreer."	
+  title: "Verge - 'n Veilige and anonieme kryptogeldeenheid met 'n fokus op privaatheid."
+nav:
+  about:
+    title: "Meer omtrent"
+  exchanges:
+    title: "Kry Verge"
+  vendors:
+    title: "Diensverskaffers"
+  wallets:
+    title: "Beursies"
+  roadmap:
+    title: "Beplanning"
+  faq:
+    title: "Algemene Vrae"
+  p2p:
+    title: "P2P Oplossings"
+  developers:
+    title: "Ontwikkelaars"
+  contributors:
+    title: "Medewerkendes"
+  donate:
+    title: "Donateer"
+  community:
+    title: "Gemeenskap"
+  social:
+    title: "Sosial"
+  blog:
+    title: "Webjoernaal"
+tagline: "Verge is 'n' <strong>veilige</strong> en <strong>anonieme</strong> geldeenheid, wat fokus op <strong>privaatheid</strong>."
+intro_button: "Kyk na die inleidings video"
+close: "Gesluit"
+download: "Download"
+view: "Sien meer omtrent"
+view_all_wallets: "Kyk na alle beursies"
+contest_enter: "Skryf in en staan 'n kans om 70,000 Verge te wen"
+mission:
+  header: "Missieverklaring"
+  paragraph: "Ons missie is om mense regoor die wêreld te bemagtig deur blockchain transaksies deel van hulle alledaagse lewe te maak. Verge as 'n geldeenheid maak dit vir mense moontlik om direkte transaksies vinnig, doelgerig en privaat te stuur en ontvang. Met Verge as 'n geldeenheid het besighede en individue ook buigsaamheid met die stuur en ontvang van transaksies. Met die druk van 'n knoppie bied Verge integrasie en die nodige gereedskap om groot skaalse transaksies tussen verbruikers en klein skaalse transaksies tussen individue privaat te prosesseer."
+info:
+  about:
+    header: "Nog meer of Verge"
+    paragraph: "Verge as 'n geldeenheid is ontwerp vir alledaagse gebruik. Dit is 'n verbetering op die Bitcoin blockchain en beoog om Bitcoin se oorspronklike doel te verrig waar individue en besighede vinnige, anonieme en degesentraliseerde transaksies kan doen en privaatheid is verseker."
+    cards:
+      privacy:
+        header: "Absoluut gefokus of anonimiteit en privaatheid"
+        paragraph: "Verge gebruik verskeie anoniem-gesentreerde netwerke soos Tor en I2P. Die IP adres van gebruikers word verbuister en die transaksies is heeltemal onopspoorbaar."
+      community:
+        header: "Wonderlike ondersteuning deur die gemeenskap"
+        paragraph: "Verge is nie 'n privaat besigheid wat deur vooraf gemynde munte of ICO's befonds word nie. Al die ontwikkeling en bemarking word deur duisende lede van die gemeenskap ondersteun."
+      speed:
+        header: "Super vinnige transaksies"
+        paragraph: "Transaksies is aansienlik vinniger as ander soortgelyke munte. Die SPV(Simple Payment Verification) tegnologie verseker dat die bevestiging van transaksies daal tot ~5 sekondes."
+      development:
+        header: "Aktiewe span ontwikkelaars met verskeie bydraers"
+        paragraph: "Die span ontwikkelaars is baie aktief en bly altyd in kontak met die gemeenskap. Jy kan ook maklik met die ontwikkelaars in verbinding tree met ondersteuning of nuwe idees oor Verge."
+      adoption:
+        header: "Reg vir massa ingebruikneming"
+        paragraph: "Verge bied verskeie beursies aan vir verskillende bedryfstels. Die revolusionêre Tor Android Beursie bied mobiele anonimiteit aan wat uniek is tussen die privaatheids georiënteerde munte."
+      opensource:
+        header: "Degesentraliseerd en Oopbronkode"
+        paragraph: "Verge is 'n degesentraliseerde geldeenheid wat gebaseer is op 'n oopbronkode platform. Daar is geen sentrale beheer oor die munte nie."
+  resources:
+    header: "Hulpbronne"
+    black_paper: "Swartpapier"
+    github: "Kodering op Github"
+    mining_pools: "Mynpoele"
+    mining_resources: "Hulpbron vir mynwerk"
+    info: "Blockchain Explorer (Verge)"
+    blockchain_explorer_prohashing: "Blockchain Explorer (ProHashing)"
+    blockchain_explorer_ccminer: "Blockchain Explorer (CCMiner.org)"
+  tech_specs:
+    header: "Spesifikasies"
+    symbol: "<b>Simbool:</b> XVG"
+    algo: "<b>Algo:</b> Scrypt, x17, groestl, blake2s, and lyra2rev2"
+    block_time: "<b>Blok tye:</b> 30 sekondes"
+    rpc_port: "<b>RPC port:</b> 20102"
+    p2p_port: "<b>P2P port:</b> 21102"
+
+exchanges:
+  header: "Kry Verge"
+  paragraph: "Verge is trots om deur die volgende diensverskaffers aangebied te word:"
+  bittrex: "Bittrex"
+  bitsquare: "BitSquare.io"
+  ccex: "C-Cex"
+  litebit: "Litebit.eu"
+  southxchange: "SouthXchange"
+  novaexchange: "NovaExchange"
+  cryptopia: "Cryptopia"
+  coinspot: "CoinSpot"
+  blocknet: "Blocknet"
+  exchangedi2p: "ExchangeD.I2P"
+  nexchange: "Nexchange"
+  coinwale: "Coinwale"
+  binance: "Binance"
+  hitbtc: "HitBTC"
+  upbit: "UpBit"
+  changelly: "Changelly"
+  nakamotox: "NakamotoX"
+  coinswitch: "CoinSwitch"
+  coin2001: "Coin2001"
+  cryptobridge: "CryptoBridge"
+  changenow: "ChangeNow"
+
+wallets:
+  header: "Beursies"
+  info:
+    header: "Informasie:"
+    message: "As jy nie die Electrum Beursie gaan installeer nie, kan jy jou installering bespoedig deur die Verge Blockchain te installeer by:  <a href='https://verge-blockchain.com/' target='_blank'>here</a>."
+  tabs:
+    preferred: "Voorkeur"
+    desktop: "Desktop"
+    mobile: "Mobiel"
+    other: "Ander"
+  windows: "Verge Windows Beursie 3.0"
+  windows4: "Verge Windows Beursie 4.0 (64-bit)"
+  auto_installer: "Verge Automatiese Installering"
+  macosx: "Verge Mac OSX Beursie 3.0"
+  macosx4: "Verge Mac OSX Beursie 4.0"
+  android: "Verge TOR Android Beursie"
+  archlinux: "Verge ArchLinux Beursie"
+  centos: "Verge CentOS Beursie"
+  debian: "Verge Debian Beursie"
+  fedora: "Verge Fedora Beursie"
+  web: "Verge Web Beursie"
+  web_tor: "Verge Tor Web Beursie"
+  web_i2P: "Verge I2P Web Beursie"
+  raspberry_pi: "Verge Raspberry Pi Kodering"
+  electrum_linux: "Verge Linux Electrum Beursie"
+  electrum_linux_tor: "Verge Tor Linux Electrum Beursie"
+  electrum_osx: "Verge OSX Electrum Beursie"
+  electrum_osx_tor: "Verge Tor OSX Electrum Beursie"
+  electrum_windows: "Verge Windows Electrum Beursie"
+  electrum_windows_tor: "Verge Tor Windows Electrum Beursie"
+  paper: "Verge Papier Beursie"
+  daemon_docker: "Verge Daemon Docker Image"
+  coinomi: "Coinomi se veelsydige geldeenheid beursie"
+vendors:
+  header: "Diensverskaffers en produsente wat die Verge geldeenheid aanvaar in die besigheidswêreld:"
+  paragraph: "Al die diensverskaffers en produsente wat ondertstaande is, aanvaar die Verge geldeenheid vir hulle produkte en dienste."
+  nexwave: "Nexwave"
+  pexpeppers: "PexPeppers"
+  incredebites: "Incredebites"
+  trebaltek: "Trebaltek"
+  renosportsbar: "Reno Sports Bar"
+  alwayshodl: "AlwaysHodl"
+  whiskermen: "WhiskerMen"
+  quantvm: "QuanTVm"
+  vfx: "VFX Learning"
+  cryptovfx: "Crypto VFX"
+  menke: "Menke IT - Service"
+  suzuri: "Verge Japan SHOP"
+  haveaheartkc: "Have A Heart: Animal Rescue"
+  illroticbeats: "Illrotic Beats"
+  fbs: "Falmouth Boat Security"
+  effortless: "Effortless.IT"
+  pmc: "Phuket Media Company"
+  meccamino: "Meccamino"
+  apetest: "APE Advisor Prep"
+  morningwish: "Morning Wish"
+  ethminers: "Ethereum Miners"
+  heightcare: "HeightCare"
+  ovpn: "oVPN"
+  snel: "Snel"
+  #vendor: "rename me"
+  #vendor: "rename me"
+  #vendor: "rename me"
+  #vendor: "rename me"
+roadmap:
+  header: "Q4 Vrystellings Skedule"
+  paragraph: "Die Vrystellings Skedule sal op 'n kwartaalikse basis opgedateer word."
+  blackpaper:
+    header: "\"Swart\" Papier v3.0"
+    date: "<font color='#08b4e0'>Vrygestel</font> 4. Junie 2017"
+  core_wallet_release:
+    header: "Vrystelling van Vlak 1 Core Beursie 3.0"
+    paragraph: "Wallet UI Overhaul, VISP, Bloom Filters, Atomic Swaps Capability"
+    date: "<font color='#08b4e0'>Vrygestel</font> 15. November 2017"
+  core_wallet_release_2:
+    header: "Vrystelling van Vlak 2 Core Beursie 4.0"
+    paragraph: "Tor Integrasie & Opsionele Heimlikheids Adressering"
+    date: "<font color='#08b4e0'>Vrygestel</font> 01. Januarie 2018"
+  i2P_android_wallet:
+    header: "I2P Android Beursie"
+    paragraph: "Anonieme mobiele transaksies oor die I2P netwerk"
+    date: "Q1, 2018"
+  rsk_smart_contracts:
+    header: "RSK Slim Kontrakte"
+    paragraph: "Dit is nou in die toets netwerk van Bitcoin. Die datum is afhangend van daardie tydlyn."
+    date: "Q1, 2018"
+  merchandise_store:
+    header: "Aanlyn Handelsware Winkel"
+    paragraph: "Handelsware wat Verge kenmerke het kan met XVG en BTC gekoop word."
+    date: "Q1, 2018"
+  official_mining_pool:
+    header: "Opdatering van Mynwerk"
+    paragraph: "XVGui Myner, Amptelike Mynwerk Poele, Mynwerk Gids"
+    date: "Q1, 2018"
+  new_website:
+    header: "Nuwe Webblad"
+    paragraph: "Nuwe Voorkoms, gidse, opgedateerde beplanning, lys van amptelike kern lede, webjoernaal met amptelike nuus, mobiele vriendelik"
+    date: "Q1, 2018"
+
+developers:
+  about:
+    header: "Ontwikkelaars"
+    paragraph: "Om kodering te doen is nie maklik nie. Ons wil dit maklik maak om aan Verge te werk en het sodoende 'n lys met die nodige gereedskap gemaak."
+  resources:
+    header: "Gereedskap vir ontikkelaars"
+    github_gui: "GitHub Desktop"
+    php: "PHP Biblioteek vir Verge Beursies"
+    ruby: "Ruby wrapped gem vir interaksie met die Verge beursie"
+    python: "Verge API binding vir Python"
+    nodejs: "Node.js klient vir Verge"
+    rubygems_howto: "Hoe om RubyGems te installeer"
+    github_repos: "Ons GitHub bewaarplaas"
+
+contributors:
+  about:
+    header: "Medewerkendes"
+    paragraph: "Verge is oopbronsagteware wat konstant besig is met verbeteringe as gevolg van al die medewerkendes. As jy ook 'n bydrae wil lewer, kan jy hier kyk <a href='https://github.com/vergecurrency' target='_blank'>Github bewaarplaas</a> om te sien watse verskil jy kan maak!"
+  wallets:
+    verge:
+      header: "Verge Beursie Adres"
+      address: DDd1pVWr8PPAw1z7DRwoUW6maWh5SsnCcp
+    bitcoin:
+      header: "Bitcoin Beursie Adres"
+      address: 142r3vCAH3AzABiQjFPmcrSCp6TDzEDuB1
+
+donate:
+  about:
+    header: "Maak 'n donasie om ontwikkeling te ondersteun"
+    paragraph: "Verge is nie 'n munt wat vooraf gemyn was nie, en die nodige ontwikkeling word deur goedaardige mens soos jy befonds."
+  wallets:
+    verge:
+      header: "Verge Beursie Adres"
+      address: DDd1pVWr8PPAw1z7DRwoUW6maWh5SsnCcp
+    bitcoin:
+      header: "Bitcoin Beursie Adres"
+      address: 142r3vCAH3AzABiQjFPmcrSCp6TDzEDuB1
+
+exchanges:
+  header: "Kry Verge"
+  paragraph: "Verge is trots daarop om deur die volgende diensverskaffers beskikbaar gestel te word:"
+  bittrex: "Bittrex"
+  bitsquare: "BitSquare.io"
+  ccex: "C-Cex"
+  litebit: "Litebit.eu"
+  southxchange: "SouthXchange"
+  novaexchange: "NovaExchange"
+  cryptopia: "Cryptopia"
+  coinspot: "CoinSpot"
+  blocknet: "Blocknet"
+  exchangedi2p: "ExchangeD.I2P"
+  nexchange: "Nexchange"
+  coinwale: "Coinwale"
+  binance: "Binance"
+  hitbtc: "HitBTC"
+  upbit: "UpBit"
+  changelly: "Changelly"
+  nakamotox: "NakamotoX"
+  coinswitch: "CoinSwitch"
+  coin2001: "Coin2001"
+  cryptobridge: "CryptoBridge"
+  changenow: "ChangeNow"
+
+footer:
+  social:
+    header: "Sosial"
+    slack: "Slack"
+    facebook: "Facebook"
+    twitter: "Twitter"
+    irc: "IRC Chat"
+    bitcointalk: "BitCoinTalk"
+    reddit: "Reddit"
+    steam: "Steam"
+    telegram: "Telegram"
+    verge_radio: "Verge Radio"
+    discord: "Verge Discord"
+    email: "E-pos"
+    linkedin: "LinkedIn"
+    instagram: "Instagram"
+    blog: "Webjoernaal"
+  tweets:
+    header: "Tweets"
+    by: "Tweets by @vergecurrency"
+  copyright: "&copy; 2018 Verge"
+
+contest_page:
+  options:
+    header: "Opsies"
+    type: "Tipe"
+    animated: "Animasie"
+    snapshot: "Foto's"
+    width: "Wydte"
+    height: "Hoogte"
+    filter: "Filter"
+    none: "Geen"
+    blur: "Blur"
+    sepia: "Sepia"
+    grayscale: "Grys"
+    dark: "Donker"
+    contrast: "Kontras"
+    saturate: "Satureer"
+    invert: "Omgekeer"
+    interval: "Interval"
+    secs: "Sekondes"
+    numberofframes: "Aantal rame"
+    frameduration: "Tydsverloop per raam"
+  preview:
+    header: "Voorskou"
+  counter:
+    header: "Kompetisie het geëindig"
+    subheader: "Ons sal die wenners teen Maandag aankondig"
+  prizes:
+    header: "Pryse"
+    first:
+      place: "1ste"
+      prize: "70,000 munte"
+    second:
+      place: "2de"
+      prize: "50,000 munte"
+    third:
+      place: "3de"
+      prize: "35,000 munte"
+    top5:
+      place: "4-5de"
+      prize: "Verge T-Hemp"
+  instructions:
+    header: "Instruksies"
+    step1: "Ontwerk 'n' <span class='highlight-section'>anonieme</span> GIF van jouself wat dit <span class='highlight-section'>onmoontlik maak om te sê wie jy is.</span>"
+    step2: "Laai jou anonieme GIF af"
+    step3: "Stuur 'n tweet na <a href='https://twitter.com/vergecurrency' target='_blank'>@vergecurrency</a> met jou <span class='highlight-section'>anonieme</span> GIF en die hashtag <span class='highlight-section'>#xvgme</span>"
+    step4: "Die <span class='highlight-section'>top 5</span> deelnemers wie <span class='highlight-section'>die meeste gekombineerde likes en retweets kry</span> vir hulle Verge GIF tweet, sal 'n prys wen!"
+  error:
+    platformNotSupported: "Jammer, jou webblaaier word nie ondersteun nie. Gebruik asseblief Chrome of Firefox."
+notificationbar:
+  close: "Gesluit"
+  torandroidrelease: "Die nuwe Verge Tor Android Beursie is hier!"
+faq:
+  tagline: "Algemene Vrae"
+  toc:
+    header: "Inhoudsopgawe"
+    general:
+      subheader: "Algemeen"
+      whatisverge:
+        question: "Wat is Verge?"
+        answer: "Verge as 'n geldeenheid is ontwerp vir alledaagse gebruik. Dit is 'n verbetering op die Bitcoin blockchain en beoog om Bitcoin se oorspronklike doel te verrig waar individue en besighede vinnige, anonieme en degesentraliseerde transaksies kan doen en privaatheid is verseker."
+      mission:
+        question: "Wat is die Verge Geldeenheid se Missie?"
+        answer: "Ons missie is om mense regoor die wêreld te bemagtig deur blockchain transaksies deel van hulle alledaagse lewe te maak. Verge as 'n geldeenheid maak dit vir mense moontlik om direkte transaksies vinnig, doelgerig en privaat te stuur en ontvang. Met Verge as 'n geldeenheid het besighede en individue ook buigsaamheid met die stuur en ontvang van transaksies. Met die druk van 'n knoppie bied Verge integrasie en die nodige gereedskap om groot skaalse transaksies tussen verbruikers en klein skaalse transaksies tussen individue privaat te prosesseer."
+      createdverge:
+        question: "Wanneer was die Verge Geldeenheid geskep?"
+        answer: "Verge Geldeenheid was geskep in 2014 onder die naam DogeCoinDark. Dit was in 2016 verander na Verge Geldeenheid."
+      opensource:
+        question: "Is Verge 'n private besigheid en hoe word dit befonds?"
+        answer: "Nee, Verge is 'n projek wat 100% oopbronkode is en word nie deur middel van 'n ICO projek wat voorafgemynde munte deur 'n privaat besigheid werf befonds nie. Ontwikkeling en bemarking word deur duisende gemeenskapslede gedoen."
+      getverge:
+        question: "Hoe kan ek Verge Geldeenheid aan die hande kry?"
+        answer: "Daar is verskeie maniere om Verge (XVG) munte te bekom. Die algemeenste opsie is om dit deur 'n <a href='https://vergecurrency.com/#exchanges' target='_blank'>diensverskaffer</a> te kry. Gebruikers kan mekaar ook beloon deur geintegreerde <a href='https://vergecurrency.com/#social' target='_blank'>sosiale</a> platforms (deur gebruik te maak van amptelike Verge bots). As jy 'n Android toestel het, kan jy ook Verge munte in die verbygang stuur/ontvang met jou mobiele Verge Beursie <a href='https://play.google.com/store/apps/details?id=com.vergeandroid.wallet' target='_blank'>app</a>."
+      techdoc:
+        question: "Waar kan ek tegniese dokumentasie kry vir Verge?"
+        answer: "Kyk na <a href='https://github.com/verg en neem kennis dat ontwikkelaars ook munte op die ope mark moet koop soos enige iemand anders. Die vooraf-myning van munte is 'n meganisme om fondse in te samel, waar ontwikkelaars van 'n geldeenheid 'n sekere aantal munte aan 'n spesifieke beursie toeskryf voordat dit aan die publiek beskikbaar gestel word."
+      supply:ecurrency/Verge-Blackpaper/blob/master/Verge-Anonymity-Centric-CryptoCurrency.pdf' target='_blank'>\"Blackpaper\"</a>. Die kode kan hier gevind word <a href='https://github.com/vergecurrency' target='_blank'>\"github\"</a>."
+      premine:
+        question: "Was die Verge Geldeenheid vooraf-gemyn?"
+        answer: "Nee, Verge was nie vooraf-gemyn nie. (Die span van ontwikkelaars) The development team
+        question: "Hoeveel Verge Geldeenhede word in totaal verskaf?"
+        answer: "Die maksimale aantal Verge is tot 16.5 biljoen (XVG) beperk."
+      highsupply:
+        question: "Hoekom is die totale aantal munte so baie?"
+        answer: "Verge Geldeenheid was juis so geskep om die gerieflikheid van transaksie bedrae op 'n alledaagse basis te verseker. Dit beoog om transaksies wat huidiglik met Bitcoin gedoen moet word, soos byvoorbeeld om 0.00004 BTC te betaal, te vermy. 'n Agtereenvolgende rede is om die risiko te verminder dat mark manipulasie plaasvind, deur dit moeiliker te maak om 'n groot porsie van die toevoer te beheer."
+      burning:
+        question: "Beplan die Verge groep om munte te vermorsel?"
+        answer: "Nee. Aangesien daar nie vooraf-gemynde munte of 'n ICO was nie, behou die groep nie 'n aanmerklike bedrag munte nie. Daarvolgens sal die aantal munte wat aangeskaf word nie die distribusie of sirkulering van munte op 'n meningsvolle wyse beinvloed nie. Dis nog 'n rede vir die hoë aantal munte. As jy voel jy wil self ontslae raak van jou munte, is jy welkom om dit te doen. Andersins kan jy dit aan ons span skenk;)"
+      infaltion:
+        question: "Is dit 'n inflasionêre munt?"
+        answer: "Nee, die totale sirkulasie is beperk."
+      transactionfee:
+        question: "Hoeveel is die transaksie koste?"
+        answer: "0.1 XVG"
+      transactionspeed:
+        question: "Hoe vinnig is 'n transaksie?"
+        answer: "Dit hang af hoe vinnig die netwerk laai, maar dit wissel gewoonlik tussen 5 en 10 sekondes."
+      transactioncap:
+        question: "Wat is die kapasiteit vir transaksies per sekonde?"
+        answer: "100 transaksies per sekonde. Met die implimentering van die RSK tegnologie, is die huidige projeksie omtrent 2000 transaksies per sekonde."
+      maxsupply:
+        question: "Wanneer sal die totale toevoer bereik word?"
+        answer: "Dit behoort min of meer 8 tot 10 jaar te neem vanaf die jaar 2017."
+      rskactivated:
+        question: "Wanneer sal die RSK tegnologie geaktiveer word?"
+        answer: "Dit RSK platform beoog om in Desember gelanseer te word. Daarvolgens sal die Verge Geldeenheid se implementering van die slim kontrakte funksionaliteit aktief wees."
+      atomicswaps:
+        question: "Hoe kan ek die atomiese wisseling gebruik?"
+        answer: "Die gebruik van atomiese wisseling kan deur degesentraliseerde diensverskaffers gedoen word, ook bekend as: decentralized exchanges (DEX)"
+      vergebusiness:
+        question: "Hoe kan ek Verge in my besigheid gebruik?"
+        answer: "Jy kan gebruik maak van munt diensverskaffers of deur bestaande API's op github te gebruik."
+      vergecurrencyproject:
+        question: "Hoe kan ek die Verge Geldeenheid projek ondersteun?"
+        answer: "Die maklikste manier om verdere ontwikkeling te ondersteun is om 'n donasie te maak aan die fonds. Die XVG en BTC adresse kan hier gevind word. As jy ander bydrae op die vlak van sagteware ontwikkeling, digitale bemarking, video en grafiese ontwerp of op enige ander manier wil doen, kan jy die vorm invul of direk kontak maak deur 'n e-pos te stuur aan contact@vergecurrency.com."
+      funded:
+        question: "Hoe word Verge Ontwikkeling befonds?"
+        answer: " Verge is 'n oopbronsagteware projek, daarvolgens word alle ontwikkeling deur medewerkendes en die gemeenskap befonds <a href='https://vergecurrency.com/#donate' target='_blank'>donasies</a>. Huidiglik konsidereer ons ook om verdere fondse te bekom deur die stigting van 'n amptelike Verge <b>Handelsware Winkel asook <b>Veelvoudige-Algoritmiese Mynwerk Poele</b>."
+      publicledger:
+        question: "Hoekom het Verge 'n Publieke Grootboek?"
+        answer: " Vir verskeie redes glo ons dat die aspek wat 'n geldeenheid behels, op die blockchain bekombaar moet wees. Dis grotendeels om die verbruikers se veiligheid te verseker.  Met die gebruik van 'n publieke blockchain kan die distribusie van munte asook die aantal verbruikers van die geldeenheid onder oog gehou word."
+        answer2: "Jy kan na al die transaksies op die blockchain kyk, maar jy sal nie weet vir wie die transaksies gedoen word nie. Verder, is dit ook nie moontlik om die persoon wat die transaksie doen se fisiese ligging te bepaal nie."
+      richlist:
+        question: "Waar kan ek na die lys kyk wat Verge se rykste verbruikers wys?"
+        answer: "Kyk hier na die ryskte verbruikers <a href='http://vergecurrency.info/richlist' target='_blank'>of</a> hier <a href='https://verge-blockchain.info/richlist' target='_blank'>hier</a>. As die eerste webwerf van lyn af is, laat weet ons asseblief want dit word onderhou deur 'n gemeenskaps bediener."
+      wheretolearnmore:
+        question: "Waar kan ek meer oor Verge leer?"
+        answer: "Ons is op tonne verskeie <a href='#social' target='_blank'>sosiale</a> platforms beskikbaar en is meestal aktief op Twitter, Telegram, Slack, and Discord."
+      roadmap:
+        question: "Waar kan ek meer oor Verge se beplanning lees?"
+        answer: "Ons <a href='#roadmap' target='_blank'>beplanning</a> word op ons webblad gelys, wat ook gewoonlik ons huidige projekte wys. Ons verkies om nie planne wat langer as 3 maande vooruit beplan is te lys nie, want dinge in die Krypto-wêreld verander so vinnig en dis moeilik om so vêr vooruit te fokus."
+    privacy:
+      subheader: "Privaatheid"
+      wraithprotocol:
+        question: "Wat is die Wraith Protokol?"
+        answer: "Die Wraith Protokol is 'n tegnologie wat die verbruiker toelaat om te kies tussen publieke en private grootboek transaksies op dieselfde blockchain. Jy sal meer informasie vind op die webjoernaal en in die Swartpapier."
+      vergeanon:
+        question: "Hoekom sal ek Verge vir anonimiteit op Tor gebruik in stede van ander krypto?"
+        answer: "Verge Geldeenheid Beursies het klaar Tor en I2P netwerke geintegreer, wat beteken dat daar geen addisionele werk nodig is om dit op te stel nie. Laai net jou beursie af en begin dadelik om transaksies te doen waar jou IP-adres verduister is."
+      whytor:
+        question: "Hoekom sal ek Tor gebruik en nie 'n VPN nie?"
+        answer: "In beide gevalle enkripteer Tor en 'n I2P die verbruiker se IP-adres en data sodat daar nie toegang tot dit is nie. 'n Virtuele Privaat Netwerk (VPN) enkripteer ook jou netwerk verkeer, maar jy moet blindelingse vertroue hê dat hulle nie 'n logboek van jou aktiwiteite stoor nie, iets wat hulle gereeld doen. Lees hierdie stuk vir meer informasie oor die nadele van VPN dienste."
+      vergemasternode:
+        question: "Sal Verge Geldeenheid Hoofnodes hê?"
+        answer: "Nee, ons glo dat Hoofnodes 'n nadeel is en veroorsaak dat die netwerk meer gesentraliseerd word. 'n Kuberkraker kan moeite-vry 'n DDOS (Distributed Denial of Service) aanval loots op die Hoofnodes, wat sal veroorsaak dat die hele netwerk blootgestel word."
+      torandroidnoconnection:
+        question: "Hoekom is daar geen teken van 'n konneksie op my Verge Tor Adroid app nie?"
+        answer: "Sodra jy sien dat \"no connection\" wys op jou hoofsaaklike balans skerm, maak jou Orbot app oop en selekteer \"apps VPN mode\" bo aan die linkerkanste menu. 'n Meer gedetailleerde gids oor die gebruik van die Verge Tor Andriod Beursie kan hier gevind word <a href ='https://medium.com/verge-currency-xvg/how-to-use-verge-tor-adroid-wallet-b3295570085d' target='_blank'>hier</a>."
+    wallets:
+      subheader: "Beursies"
+      whichwallet:
+        question: "Watter Verge Beursie moet ek gebruik?"
+        answer: "Op 'n fundamentele vlak is daar twee Verge Beursies wat jy kan gebruik; QT en/of Electrum. Vir alledaagse gebruik <b> stel ons voor dat jy die Electrum Beursie aflaai</b>."
+      electrum:
+        question: "Wat is Electrum?"
+        answer: "<a href='https://electrum.org' target='_blank'>Electrum</a> is 'n' <a href='https://github.com/spesmilo/electrum' target='_blank'>oopbronkode</a> Bitcoin lite Beursie oplossing. Verge het die Electrum beursie kodebasis gevurk en opgedateer, sodat dit saam met die Verge Blockchain kan werk."
+      electrumwallet:
+        question: "Wat is 'n Electrum Beursie?"
+        answer: "Die Verge Electrum beursie is ontwerp met 'n fokus op spoed en die minimum gebruik van hulpbronne. Die Electrum beursie gebruik tegnologie met die naam <a href='http://docs.electrum.org/en/latest/spv.html' target='_blank'>Simple Payment Verification</a> (SPV), wat transaksies kan verifieer op die Verge blockchain sonder om die hele blockchain hoef af te laai. Die SPV tegnologie verseker dat transaksie verifikasie tye tot ~5 sekondes beperk word (in stede van ~30 sekondes met die non-Electrum transaksies). Om meer inligiting oor Electrum te lees, gaan na hulle <a href='http://docs.electrum.org/en/latest/faq.html' target='_blank'>FAQ</a> webblad."
+      qt:
+        question: "Wat is QT?"
+        answer: "<a href='https://www.qt.io' target='_blank'>QT</a> is 'n kruis-platform applikasie en 'n UI raamwerk vir ontwikkelaars wat die C++ programmeertaal gebruik. Dit laat ontwikkelaars toe om hulle kode in C++ te skryf en daarna hulle sagteware op verskeie hardeware en sagteware platforms te versprei. Volgens <a href='https://en.wikipedia.org/wiki/Qt_(software)' target='_blank'>Wikipedia</a>, was die gereedskapstuk QT benoem omdat \"the letter Q looked appealing in Haavard's Emacs typeface, and 't' was inspired by Xt, the X toolkit\". "
+      qtwallet:
+        question: "Wat is 'n QT Beursie?"
+        answer: "Een van die vereistes van 'n QT beursie is dat jy die hele <a href='https://verge-blockchain.com/' target='_blank'>Verge blockchain</a> moet aflaai op jou rekenaar. Met ander woorde, jou rekenaar moet rekord hou van elke liewe Verge transaksie wat ooit gebeur het. Huidiglik is die Verge blockchain ~1GB en dit sal net groter word met elke transaksie. As jy 'n QT beursie gebruik moet jy seker maak dat jou toestel genoeg spasie het om die data te kan stoor."
+        answer2: "Sodra jy jou QT beursie oopmaak, sinkroniseer dit met die blockchain deur al die nuutste data na jou toestel toe af te laai. As jy besluit om 'n QT beursie te gebruik, sal jy dit op 'n gereelde basis moet gebruik; andersins kan dit tot 'n uur of meer neem om al die nuutste data wat op die blockchain opgedateeer was, af te laai. (Dit hang natuurlik af hoe lank terug jy die beursie gebruik het)."
+      backup:
+        question: "Hoe maak ek 'n Rugsteun(Backup) van my beursie?"
+        answer: "As jy 'n Electrum Beursie gebruik moet jy net eenvoudig jou 9 woord 'seedphrase' veilig hou. Sodra jy jou Verge beursie opstel, word jy met 'n 'seedphrase' verskaf. Jy het ook toegang tot jou 'seedphrase' deur in jou app se aanwysings(settings) te kyk(jy sal jou wagwoord hier benodig). Ons sal voorstel dat jy nie jou 'seedphrase' in 'n elektroniese formaat stoor nie, want dit kan dan maklik gesteel word. As iemand jou 'seedphrase' steel, sal hulle as gevolg jou munte kan steel."
+        answer2: "Die belangrikste is om jou 'seedphrase' byderhand te hou, want dit sal jou in staat stel om jou beursie te herwin indien nodig. Kom ons gebruik 'n voorbeeld: Jan gebruik die Verge Tor Andriod Beursie en laat val dit per ongeluk in 'n swembad wat veroorsaak dat die toestel heeltemal buite werking is. Nou kan Jan die Verge beursie weer op sy nuwe foon laai en al wat hy hoef te doen is om die 'seedphrase' te gebruik om sy ou beursie te herwin. Dieselfde sal geld vir die Desktop Electrum Beursies. Dus sal jy al jou munte verloor as jy nie die 'seedphrase' vir jou beursie kan vind nie."
+        answer3: "As jy jou QT beursie wil enkripteer, kan jy 'n unieke wagwoord skep deur na <b>Settings -> Encrypt Wallet</b> toe te gaan. Sodra jy 'n wagwoord geskep het, kan jy 'n data rugsteun maak wat ge-enkripteer is deur na <b>File -> Backup Wallet</b> toe te gaan. Die privaat sleutels van 'n QT Beursie word in 'n 'wallet.dat' formaat gestoor. Sodra jy Verge munte stuur sal die beursie die privaat sleutels in die 'wallet.dat' lêer gebruik. <b>Onthou net dat jy elke keur 'n nuwe rugsteun sal moet maak sodra jy'n nuwe Verge beursie skep</b>."
+        answer4: "Solank jou wallet.dat lêer aktueel is, kan jy jou munte herwin of na 'n nuwe Verge Beursie toe invoer. As jy jou wallet.dat lêer verloor, sal jou munte ook verlore wees."
+      longsync:
+        question: "My beursie vat baie lank om te sinkroniseer.  Is daar enigsins iets wat ek kan doen om dit vinniger te maak?"
+        answer: "Ja, jy kan die mees huidige weergawe van Verge by <a href='https://verge-blockchain.com/' target='_blank'>blockchain</a> aflaai. Sodra jy die nuutste weergawe van die blockchain gelaai het, moet jy asseblief die gegewe <a href='https://verge-blockchain.com/howto' target='_blank'>instruksies</a> lees. Nadat jy die instruksies gelees en jou beursie opgemaak het, laat asseblief die beursie toe om die laaste sinkronisering te doen. Dit kan somtyds tot 'n uur lank neem."
+        answer2: "Hou ook in gedagte dat ons alternatiewelik Electrum <a href='#wallets' target='_blank'>beursies</a> het wat aansienlik vinniger is, omdat jy nie die hele blockchain hoef te stoor nie."
+      torandroidnoconnection:
+        question: "Hoekom is daar geen teken van 'n konneksie op my Verge Tor Adroid app nie?"
+        answer: "Sodra jy sien dat \"no connection\" wys op jou hoofsaaklike balans skerm, maak jou Orbot app oop en selekteer \"apps VPN mode\" bo aan die linkerkanste menu."
+    mining:
+      subheader: "Mynwerk"
+      proof:
+        question: "Is Verge POW of POS?"
+        answer: "Verge is 100% <b>POW</b> (Proof of Work). Ons glo dat die POS (Proof of Stake) sisteem verbruikers met die meeste munte bevoordeel, wat beteken die ryk sal net ryker word. Dieselfde kan gesê word van die tradisionele fiat geldeenhede(bv. die dollar)."
+      algorithms:
+        question: "Watter tipe Algoritmes ondersteun Verge?"
+        answer: "Verge ondersteun verskeie algoritmes. Dit beteken dat individue Verge kan myn met verskillende soorte gereedskap, wat beter sekuriteit deur degesentraliseerdheid verseker en ook 'n meer eweredige distribusie van munte aan die Verge mynwerk gemeenskap bied. Verge is een van die min kryptogeldeenhede wat vyf soorte 'hashing' algoritmes aanbied, naamlik: Scrypt, X17, Lyra2rev2, myr-groestl and blake2s."
+p2p:
+  subheader: "Inleiding"
+  header: "Wat is P2P Oplossings?"
+  paragraph: "Verge is konstant besig om te werk sodat aanvaarding deur die meerderheid moontlik is. Daarvolgens, integreer Verge soveel as moontlik met die sosiale platforms as 'n strategie om die doel te bereik."
+  paragraph2: "Sonder dat enige installasie nodig is kan XVG munte gestuur en ontvang word deur Twitter, Discord en Telegram. Daar is huidiglik nog vele ander platforms wat beoog word."
+  paragraph3: "Ander platforms soos Slack & Reddit, sal beskikbaar wees in die nabye toekoms."
+  paragraph4: "Gebruik XVG om skeppers van inhoud te beloon, vryskut werkers te betaal, skenkings te maak aan NGO's of wys eenvoudig jou ondersteuning vir artikels en inhoud op sosiale platforms! Dit alles met geen transaksie fooie(behalwe vir baie klein fooie by eksterne beursies) en blitsvinnige transaksies wat geen installering benodig nie!"
+  paragraph5: "Hier onder sal jy 'n reeks verskillende handleidings vind, wat jou sal help om te verstaan hoe ons diverse P2P Oplossings werk."
+
+p2ptoc:
+  telegramintro: "Nota: Jou Telegram profiel moet jou gebruikersnaam wys (@<username>) voordat jy tips kan ontvang. Gebruikersname kan by die aanwysings opsie(settings) in Telegram gedoen word."
+  toc:
+    tagline: "P2P Oplossings"
+    header: "Inhoudsopgawe"
+    telegram:
+      subheader: "Telegram Bot Handleiding"
+      bullet1: "1. <b>Om 'n Verge Bot aan jou kanaal te heg:</b> Soek @VergeX_bot in Telegram, druk \"Add to group\" en kies jou groep se kanaal."
+      bullet2: "2. <b>Om jou Verge Telegram adres te vertoon:</b> stuur \"!address\" as 'n direkte boodskap aan die bot."
+      bullet3: "3. <b>Deponeer munte:</b> stuur XVG munte na die adres wat verskaf word."
+      bullet4: "4. <b>Om na jou balans te kyk:</b> stuur \"!balance\" as 'n direkte boodskap en dan sal jy jou balans as 'n antwoord(reply) ontvang."
+      bullet5: "5. <b>Stuur munte deur Telegram:</b> stuur \"!tip @<username><bedrag XVG>\" in die (group chat)."
+      bullet6: "6. <b>Onttrek jou Telegram balans na jou beursie:</b> stuur \"!withdraw <Verge Adres>\" as 'n' <b>Direkte boodskap</b> Om jou algehele balans te onttrek <b>whole</b> wallet balance (minus 2 XVG transaksie fooi) na jou Verge adres."
+      bullet7: "7. <b>Om die terme te lees:</b> stuur \"!terms\" dit sal die terme en voorwaardes om Verge Telegram Bot te gebruik vertoon."
+    twitter:
+      subheader: "Twitter Bot Handleiding"
+      bullet1: "1. <b>Om jou Verge Twitter adres te vertoon:</b> tweet \"@vergetips address\" om te sien watter Verge adres met jou Twitter rekening geassosieer word."
+      bullet2: "2. <b>Deponeer Munte:</b> stuur XVG munte na die adres wat verskaf word."
+      bullet3: "3. <b>Om na jou balans te kyk:</b> tweet \"@vergetips balance\" en dan sal jy jou balans in die antwoord(reply) sien."
+      bullet4: "4. <b>Stuur Munte deur Twitter:</b> tweet \"@vergetips tip @<username><bedrag XVG>\"."
+      bullet4note: "<b>Nota:</b> die minimum bedrag vir 'n tip is - 10 XVG"
+      bullet5: "5. <b>Onttrek jou Twitter balans na jou beursie:</b> tweet \"@vergetips withdraw <Verge Adres>\" Om jou algehele balans te onttrek <b>whole</b> wallet balance (minus 2 XVG transaksie fooi) na jou Verge adres."
+      bullet6: "6. <b>Ondersteun Verge:</b> tip \"@vergecurrency\" om die Verge Groep te ondersteun!"
+    discord:
+      subheader: "Discord Bot Handleiding"
+      bullet1: "1. <b>Om jou Verge Discord adres te vertoon:</b> stuur \"@vergebot deposit\" om te sien watter Verge adres met jou Discord rekening geassosieer word."
+      bullet2: "2. <b>Deponeer Munte:</b> stuur XVG munte aan die adres wat verskaf word."
+      bullet3: "3. <b>Om na jou balans te kyk:</b> stuur \"@vergebot balance\" en dan sal jy jou balans as 'n antwoord(reply) ontvang."
+      bullet4: "4. <b>Stuur Munte deur Discord:</b> stuur \"@vergebot tip @<username> <bedrag XVG>\"."
+      bullet4note: "<b>Nota:</b> die minimum bedrag vir 'n tip is - 10 XVG."
+      bullet5: "5. <b>Onttrek jou Discord balans na jou beursie:</b> stuur \"@vergebot withdraw <Verge adres>\" Om jou algehele balans te onttrek <b>whole</b> wallet balance (minus 2 XVG transaksie fooi) na jou Verge adres."
+      bullet6: "6. <b>Ondersteun Verge:</b> tip @vergedev om die Verge Groep te ondersteun!"
